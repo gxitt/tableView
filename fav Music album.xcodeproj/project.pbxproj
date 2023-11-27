@@ -16,6 +16,8 @@
 		1F7992DC2A113F08005BC7C1 /* fav_Music_albumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7992DB2A113F08005BC7C1 /* fav_Music_albumTests.swift */; };
 		1F7992E62A113F08005BC7C1 /* fav_Music_albumUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7992E52A113F08005BC7C1 /* fav_Music_albumUITests.swift */; };
 		1F7992E82A113F08005BC7C1 /* fav_Music_albumUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7992E72A113F08005BC7C1 /* fav_Music_albumUITestsLaunchTests.swift */; };
+		1F7992F52A1141DB005BC7C1 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7992F42A1141DB005BC7C1 /* TableViewController.swift */; };
+		1FD12DC22A2C93EC0091CE62 /* The weeknd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD12DC12A2C93EC0091CE62 /* The weeknd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		1F7992E12A113F08005BC7C1 /* fav Music albumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "fav Music albumUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F7992E52A113F08005BC7C1 /* fav_Music_albumUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fav_Music_albumUITests.swift; sourceTree = "<group>"; };
 		1F7992E72A113F08005BC7C1 /* fav_Music_albumUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fav_Music_albumUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1F7992F42A1141DB005BC7C1 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		1FD12DC12A2C93EC0091CE62 /* The weeknd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The weeknd.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				1F7992C42A113F06005BC7C1 /* AppDelegate.swift */,
 				1F7992C62A113F06005BC7C1 /* SceneDelegate.swift */,
 				1F7992C82A113F06005BC7C1 /* ViewController.swift */,
+				1FD12DC12A2C93EC0091CE62 /* The weeknd.swift */,
+				1F7992F42A1141DB005BC7C1 /* TableViewController.swift */,
 				1F7992CA2A113F06005BC7C1 /* Main.storyboard */,
 				1F7992CD2A113F08005BC7C1 /* Assets.xcassets */,
 				1F7992CF2A113F08005BC7C1 /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 				1F7992C92A113F06005BC7C1 /* ViewController.swift in Sources */,
 				1F7992C52A113F06005BC7C1 /* AppDelegate.swift in Sources */,
 				1F7992C72A113F06005BC7C1 /* SceneDelegate.swift in Sources */,
+				1FD12DC22A2C93EC0091CE62 /* The weeknd.swift in Sources */,
+				1F7992F52A1141DB005BC7C1 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
